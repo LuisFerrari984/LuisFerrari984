@@ -25,7 +25,6 @@ Minha grande paixão é aprender e criar jogos 🎮.
 
 Estou mergulhado no JavaScript. É o meu foco principal no momento para dar o próximo passo e criar projetos com mais dinamismo e interatividade. Tenho alguns websites desenvolvidos e busco sempre evoluir!
 
-[![Luis stats](https://github-profile-trophy.vercel.app/?username=LuisFerrari984)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
